@@ -1,0 +1,11 @@
+{
+  "name": "netspeed",
+  "version": "1.0.0",
+  "description": "tool for monitoring network-if speed on linux using js&ifconfig",
+  "main": "monitor.js",
+  "scripts": {
+    "test": "node monitor.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
